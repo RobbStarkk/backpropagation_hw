@@ -1,0 +1,1 @@
+Homework lab on the implementation of the backpropagation algorithm for a neural network. The MLP class allows you to create a neural network with n layers to solve the regression problem.
